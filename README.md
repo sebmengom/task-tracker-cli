@@ -13,7 +13,7 @@ https://roadmap.sh/projects/task-tracker
 ## 🛠 Installation  
 1. Make sure you have **Python 3.x** installed.  
 2. Clone the repository:  
-   `git clone <https://github.com/sebmengom/task-tracker-cli> & cd task-tracker-cli`  
+   `git clone https://github.com/sebmengom/task-tracker-cli & cd task-tracker-cli`  
 
 ## ⚙️ Usage  
 ### ➕ Add a Task  
