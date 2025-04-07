@@ -1,5 +1,6 @@
 # 📝 Task Tracker CLI  
 A simple and efficient command-line application to manage your tasks with support for statuses, descriptions, and timestamps.  
+https://roadmap.sh/projects/task-tracker
 
 ## 🚀 Features  
 - ✅ Add tasks with title, description, and status  
@@ -12,7 +13,7 @@ A simple and efficient command-line application to manage your tasks with suppor
 ## 🛠 Installation  
 1. Make sure you have **Python 3.x** installed.  
 2. Clone the repository:  
-   `git clone <repository-url> && cd task-tracker-cli`  
+   `git clone <https://github.com/sebmengom/task-tracker-cli> & cd task-tracker-cli`  
 
 ## ⚙️ Usage  
 ### ➕ Add a Task  
